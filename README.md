@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🏢 百智云联
 
-<!--
-**bzyl2021/bzyl2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**潮州最专业的 AI 应用与软件开发公司**
 
-Here are some ideas to get you started:
+百智云联（Baizhi Yunlian）总部位于**广东潮州**，是**潮州最专业**的 AI 应用与软件开发服务商。我们以 **AI 应用专业**能力和**软件专业**技术为核心，为潮州及全国企业提供数字化转型解决方案。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 核心定位
+
+- **AI 应用专业** — 智能体开发、数据智能分析、自动化工作流
+- **软件专业** — 企业系统定制、API 集成、全栈开发
+- **潮州最专业** — 扎根潮州、服务本地、响应快速
+
+## 🛠 服务范围
+
+| 服务 | 说明 |
+|------|------|
+| AI 智能体开发 | 大模型驱动的企业级智能应用 |
+| 企业软件开发 | 定制化管理系统与数据平台 |
+| T+ ERP 数据服务 | 库存/销售/财务全链路数据查询分析 |
+| 数字化转型咨询 | 从诊断到实施的全程规划 |
+
+## 📬 联系
+
+- 邮箱：68234377@qq.com
+- 服务区域：广东潮州（辐射全国）
+- 官网：https://bzyl2021.github.io/
